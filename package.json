@@ -1,0 +1,19 @@
+{
+  "name": "atomic-muscles",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Atomic Muscles — single-page site (atomicmuscles3jjs.html) served with Vite.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lenis": "1.1.13",
+    "three": "0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
